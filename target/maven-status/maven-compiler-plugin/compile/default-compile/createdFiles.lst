@@ -1,0 +1,16 @@
+utils\FrameworkConfig.class
+pages\PolicyPage.class
+pages\DashBoardPage.class
+pages\ManageClaimPage.class
+pages\QuotePage.class
+pages\HomePage.class
+pages\Constant.class
+utils\ConfigReader.class
+pages\ApproveClaimPage.class
+pages\ClientPage.class
+pages\TaskPage.class
+pages\LogInPage.class
+pages\LogOutPage.class
+pages\AccountPage.class
+utils\ScreenRecorderUtil.class
+factory\DriverFactory.class
